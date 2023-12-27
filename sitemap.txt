@@ -1,0 +1,3 @@
+http://example.com/2023/12/25/myFirstBlog/
+http://example.com/2023/12/25/hello-world/
+http://example.com/
